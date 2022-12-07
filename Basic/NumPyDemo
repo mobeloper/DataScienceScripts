@@ -7,7 +7,8 @@ print(zeros_array)
 
 
 #Flat the array into 1D data
-flat_data = zeros_array.ravel
+#flat_data = zeros_array.ravel
+flat_data = zeros_array.flatten()
 print(flat_data)
 
 
