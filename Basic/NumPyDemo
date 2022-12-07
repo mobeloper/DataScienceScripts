@@ -5,9 +5,14 @@ import numpy as np
 zeros_array = np.zeros((5,5))
 print(zeros_array)
 
+
+#Flat the array into 1D data
+flat_data = zeros_array.ravel
+print(flat_data)
+
+
 # create array with ones
 array_ones = np.ones((3,3))
-
 
 
 #array_empty
