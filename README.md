@@ -1,2 +1,2 @@
 # DataScienceScripts
-Core functions for data science in Python.
+Basic functions and examples for data science in Python.
