@@ -33,11 +33,11 @@ print(reshape_range)
 #linear spacing
 lin_space = np.linspace(1,24,12)
 
-print(lin_space)
+print(lin_space) 
 
 #Make 2D linear spacing matrix
-reshape_vect = lin_space.reshape(3,4)
-print(reshape_vect)
+reshape_vect = lin_space.reshape(3,4) 
+print(reshape_vect) 
 
 #Make a 3D array
 threeD_array = np.arange(27).reshape(3,3,3)
